@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+body{
+    font-family: 'Festive', cursive;
+    background-image: url(4SHX.gif);background-size: cover;
+    width: 400px;
+    height: 400px;
+}
+p{
+        font-family: 'Festive', cursive;
+        color:#f0f2f4;
+        font-size: 30px;
+        font-weight: 30px;
+}
+h1{
+   color:#2e0000
+   ;
+}
+div{
+    width: 400px;
+    height: 400px;
+    font-size: 40px;
+    color: blue; 
+    text-align: right;}
+
+img{
+    border-radius: 50%;
+    border: 5px rgb(170, 0, 0) solid;
+}

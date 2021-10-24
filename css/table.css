@@ -1,0 +1,20 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 400px;
+}
+tr{
+    height: 100px;
+    background-color: cyan;
+}
+th{
+border: 2px solid blue;
+background-color: cyan;
+}
+td{
+    border:2px solid chocolate;
+    background-color: cyan;
+}
+td:hover{
+    background-color: darkmagenta;
+}

@@ -1,0 +1,12 @@
+td{
+    border: 1px solid black;
+    background-color: darkcyan;
+    height: 500px;
+    width: 300px;
+ }
+ .one_class{
+    height: 20%;
+ }
+ .two_class{
+    width: 80%;
+ }
