@@ -1,0 +1,47 @@
+.header {
+    width: 99.6vw;
+    height: 100px;
+    color: whitesmoke;
+    background-color: #333;
+    border: 5px solid #000;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.menu {
+    color: black;
+}
+a {
+text-decoration: none;
+}
+li a {
+    color: whitesmoke;
+}
+li a:hover {
+    color: brown;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+   li {
+    list-style-type: none; 
+   }
+    .hr {
+        margin: 0; 
+        padding: 4px; 
+       }
+       ul.hr li {
+        display: inline; 
+       }
+       
+       .class1 {
+        border: 4px double black; /* Параметры границы */
+        background: #fc3; /* Цвет фона */
+        padding: 10px; /* Поля вокруг текста */
+    }
+       }
+       div {
+           display: block;
+       }

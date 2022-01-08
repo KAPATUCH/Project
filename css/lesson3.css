@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "Montserrat"; 
+    src: url("fonts/Montserrat-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+}
+body{
+    background-color: whitesmoke;
+    color: rgb(19, 18, 18);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+}
+.orange {
+    color: #ff6302;
+}
+.orange {
+    color: #ff6302;
+}
+table{
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td{
+    width: 33%;
+    border: 1px solid black;  
+    background-color: #a00100;  
+}
+td:hover{
+    background-color:#bc0100;  
+}
+h1 {
+    color: #9f2972;
+}
+p {
+  color:#9f2972;
+  font-weight: 800;
+}
+h3 {
+    color: #9f2972;
+}
+p:hover {
+    color: black;
+}

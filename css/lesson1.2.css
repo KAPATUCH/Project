@@ -1,0 +1,23 @@
+p {
+    color: red;
+    font-weight: 800;
+    text-align: center;
+}
+h1 {
+    color: #961e4d;
+    font-size: red;
+    text-align: center;
+}
+h3 {
+    color: #961e4d;
+    font-size: red;
+    text-align: center;
+}
+a{
+    color: cornflowerblue;
+    text-decoration: none;
+    text-align: center;
+}
+a:hover{
+    color: rgb(75, 109, 172);
+}

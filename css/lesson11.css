@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    text-align: center;
+}
+.box1 {
+    position: static;
+}
+.box {
+width: 200px;
+height: 100px;
+background-color: #ccc;
+border: 2px solid #555;
+text-align: center;
+line-height: 100px;
+margin-bottom: 10px;
+}
+.box2 {
+    position: fixed;
+    left: 50%;
+}
+.box3 {
+    position: relative;
+    top: -25px;
+    left: 60px;
+}
+.box4 {
+    position: absolute;
+    left: 1200px;
+    top: 50px;
+}
+.box5 {
+    position: sticky;
+    left: 600px;
+    top: 10px;
+    background-color: black;
+    color: white;
+}
+.krug {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: darkred;
+    left: 850px;
+}
